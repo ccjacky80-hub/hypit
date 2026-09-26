@@ -20,6 +20,6 @@ White lowercase sans-serif, small/medium, upper-middle safe area. One static lin
 
 ## Caption draft
 
-`A tiny light, a completely different mood. Sunset lamp linked in bio. #ad`
+`A tiny astronaut, a completely different mood. Linked in bio. #ad`
 
 Use the full Amazon Associate disclosure next to the link; see `publish-copy.md`.

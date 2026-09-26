@@ -1,10 +1,10 @@
 # Generation Runbook
 
-Before paid generation, confirm provider account/spend authority and add rights-cleared XEBKOR lamp images under `assets/reference/product/`.
+Before paid generation, confirm provider account/spend authority. Use the supplied XEBKOR astronaut-lamp images as the factual product reference set.
 
 | Order | Request | Continuity requirement |
 |---:|---|---|
-| 1 | Jimeng I01 | Product images preserve factual lamp form. |
+| 1 | Jimeng I01 | Supplied images preserve astronaut body, lamp face, base, and cable. |
 | 2 | Jimeng I02 | I01 preserves cast/room/lamp; use as loop endpoint. |
 | 3 | Flow S01 | I02 is identity/opening reference. |
 | 4 | Flow S02 | Use S01 final frame plus product images. |

@@ -15,4 +15,4 @@
 
 ## Grade and QA
 
-Open with neutral dim blue-gray room tones; payoff is amber, rose, and soft gold without neon. Reject clips where the lamp changes shape, its stand/cable disappears, hands deform, the glow floats without a source, the room layout changes, fake text appears, or the final frame does not closely match the first. Target fewer than six frames of perceived discontinuity at the loop seam.
+Open with neutral dim blue-gray room tones; payoff is amber, rose, and soft gold without neon. Reject clips where the astronaut body changes from white-and-blue, its circular lamp face/base/cable disappears, hands deform, the glow floats without a source, the room layout changes, fake text appears, or the final frame does not closely match the first. Target fewer than six frames of perceived discontinuity at the loop seam.
