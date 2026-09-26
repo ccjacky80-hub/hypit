@@ -4,7 +4,7 @@ All output paths are local-only and remain untracked.
 
 | ID | Role | Provider | Duration | Inputs | Local output | Status |
 |---|---|---|---:|---|---|---|
-| I01 | Cast/room/astronaut-lamp continuity still | Jimeng | n/a | supplied astronaut-lamp images | `assets/image/identity-room-lamp.png` | READY |
+| I01 | Cast/room/astronaut-lamp continuity still | Image generation | n/a | supplied astronaut-lamp images | `assets/image/identity-room-lamp-v1.png` | SELECTED |
 | I02 | Loop-opening still | Jimeng | n/a | I01 + supplied astronaut-lamp images | `assets/image/opening-frame.png` | BLOCKED_REFERENCE |
 | S01 | Lift astronaut lamp | Google Flow | 1.2 s | I01/I02 | `assets/video/shot_001.mp4` | BLOCKED_FLOW |
 | S02 | Place, aim, switch | Google Flow | 2.0 s | S01 end + supplied astronaut-lamp images | `assets/video/shot_002.mp4` | BLOCKED_FLOW |

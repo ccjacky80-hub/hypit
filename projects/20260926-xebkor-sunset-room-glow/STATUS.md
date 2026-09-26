@@ -2,7 +2,7 @@
 
 ## Current stage
 
-`READY_FOR_CODEX`. The complete text-only production package is ready; no media generation or paid Build has been submitted.
+`ASSET_GENERATION`. I01 has been generated and selected as the continuity anchor. No video generation or Hypit Build has been submitted.
 
 ## Locked product and format
 
@@ -21,9 +21,13 @@ On September 26, 2026, the affiliate link resolved to this listing at about $9.9
 2. A human Google Flow operator for S01–S05.
 3. The original reference video only if its exact motion grammar needs reproduction; it was not supplied.
 
+## Selected material
+
+- I01: `assets/image/identity-room-lamp-v1.png` — selected continuity anchor for the adult creator, blue-hour bedroom, and white-and-blue astronaut lamp.
+
 ## Next action
 
-Generate the two Jimeng stills, select one consistent cast/room/lamp identity, then use Flow in order: S01/S02 → S03 → S04 → S05.
+Generate I02 from I01 as the precise loop-opening composition, then use Flow in order: S01/S02 → S03 → S04 → S05.
 
 ## Publishing safety
 
