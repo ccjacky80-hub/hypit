@@ -1,7 +1,0 @@
-Duration: 2.0 seconds. Vertical 9:16. Silent visual clip.
-
-Use the exact final frame from S02 as the first-frame reference. Preserve the table-mounted projector, room, wall position, and the existing 16:9 projection rectangle. The camera makes one slow, deliberate push toward the wall.
-
-The ordinary dim rectangle sharpens into a non-branded golden coastline image: soft sunlit horizon, calm ocean, and warm filmic gold. The rectangle edges remain in exactly the same wall position, but the image gains subtle believable depth as if the room continues beyond the wall. This is one continuous wall-to-world transformation, not a cut. End close to the rectangle with a level golden horizon and enough stable geometry to be the first-frame reference for the next shot.
-
-No people enter frame, no captions, no text, no logos, no recognizable film imagery, no neon portal, no wall movement or changing projector geometry.

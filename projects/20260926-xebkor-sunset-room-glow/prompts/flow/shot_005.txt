@@ -1,0 +1,7 @@
+Duration: 2.2 seconds. Vertical 9:16. Silent visual.
+
+Use S04's accepted end frame as the first reference and `opening-frame.png` as the ending composition reference. Begin in the same warm bedroom. The camera reverses smoothly as the sunset glow contracts into the factual lamp lens; the rest of the room returns to its original dim blue-hour light. Continue pulling back to the close-medium opening pose where the same woman faces camera and raises the same unlit lamp at chest height.
+
+The last frame must closely match `opening-frame.png`: same cast, clothing, room, bedside lamp, lamp head/stand/cable, orientation, framing, and hand position. The light change is physically motivated by the lamp, so replay feels intentional.
+
+No text, readable branding, extra lamp, shape changes, warped hands, hard cut, app interface, or copyrighted imagery.

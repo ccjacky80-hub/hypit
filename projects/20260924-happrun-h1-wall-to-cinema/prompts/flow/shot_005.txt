@@ -1,7 +1,0 @@
-Duration: 2.2 seconds. Vertical 9:16. Silent visual clip.
-
-Use the accepted end frame from S04 as the first-frame reference and `opening-frame.png` as the required ending composition reference. Begin in the settled golden coastline home-cinema world. The camera reverses smoothly; the bright horizontal coastline contracts with a soft optical pull into a circular reflection inside the real projector lens. Continue pulling back through the original bedroom until the same woman is again close-medium, facing camera and raising the same correctly shaped projector at chest height in the opening pose.
-
-The last frame must closely match `opening-frame.png`: same cast, outfit, room, warm lamp, blue ambient light, device orientation, lens side, framing, and hand position. Keep the effect elegant and physically motivated by light; it must feel like a loop, not a magical object swap.
-
-No text, no readable logo, no extra product, no device shape change, no warped hands, no hard cut, no streaming UI, no copyrighted imagery.
