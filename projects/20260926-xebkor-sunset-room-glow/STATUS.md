@@ -24,10 +24,11 @@ On September 26, 2026, the affiliate link resolved to this listing at about $9.9
 ## Selected material
 
 - I01: `assets/image/identity-room-lamp-v1.png` — selected continuity anchor for the adult creator, blue-hour bedroom, and white-and-blue astronaut lamp.
+- I02: `assets/image/opening-frame-v1.png` — selected opening and loop-return composition for the same creator, room, and lamp.
 
 ## Next action
 
-Generate I02 from I01 as the precise loop-opening composition, then use Flow in order: S01/S02 → S03 → S04 → S05.
+Generate S01 from I02, then use Flow in order: S02 → S03 → S04 → S05.
 
 ## Publishing safety
 

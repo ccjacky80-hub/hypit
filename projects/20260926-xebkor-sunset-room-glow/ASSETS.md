@@ -5,8 +5,8 @@ All output paths are local-only and remain untracked.
 | ID | Role | Provider | Duration | Inputs | Local output | Status |
 |---|---|---|---:|---|---|---|
 | I01 | Cast/room/astronaut-lamp continuity still | Image generation | n/a | supplied astronaut-lamp images | `assets/image/identity-room-lamp-v1.png` | SELECTED |
-| I02 | Loop-opening still | Jimeng | n/a | I01 + supplied astronaut-lamp images | `assets/image/opening-frame.png` | BLOCKED_REFERENCE |
-| S01 | Lift astronaut lamp | Google Flow | 1.2 s | I01/I02 | `assets/video/shot_001.mp4` | BLOCKED_FLOW |
+| I02 | Loop-opening still | Image generation | n/a | I01 + supplied astronaut-lamp images | `assets/image/opening-frame-v1.png` | SELECTED |
+| S01 | Lift astronaut lamp | Google Flow | 1.2 s | I01/I02 | `assets/video/shot_001.mp4` | READY_FOR_FLOW |
 | S02 | Place, aim, switch | Google Flow | 2.0 s | S01 end + supplied astronaut-lamp images | `assets/video/shot_002.mp4` | BLOCKED_FLOW |
 | S03 | Circle to sunset glow | Google Flow | 2.0 s | S02 final frame | `assets/video/shot_003.mp4` | BLOCKED_FLOW |
 | S04 | Room-glow payoff | Google Flow | 6.6 s | S03 final frame | `assets/video/shot_004.mp4` | BLOCKED_FLOW |
